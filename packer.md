@@ -51,3 +51,4 @@ build {
 
 ```
 
+> Make sure you have the required infrastructure VPC internet gateway
